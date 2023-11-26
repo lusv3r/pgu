@@ -1,0 +1,29 @@
+.container {
+    margin-right: 315px;
+    margin-left: 315px;
+}
+.header-line {
+
+    display: flex;
+    align-items: center;
+
+}
+.nav-item {
+    padding-top: 16px;
+    font-weight: 700;
+    font-size: 96px;
+    margin-right: 27px;
+}
+.nav-item2 {
+    padding-top: 60px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #777777;
+    margin-right: 420px;
+}
+.liniya {
+    padding-top: 10px;
+    margin-right: 315px;
+    margin-left: 315px;
+    position:fixed 
+}
