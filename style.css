@@ -1,3 +1,6 @@
+.header{
+    margin: 0 auto;
+}
 .container {
     margin-right: 315px;
     margin-left: 315px;
@@ -19,7 +22,8 @@
     font-weight: 400;
     font-size: 20px;
     color: #777777;
-    margin-right: 420px;
+    margin-right: 500px;
+    white-space: nowrap;
 }
 .liniya {
     padding-top: 10px;
